@@ -1,0 +1,65 @@
+{
+  "item": {
+    "id": "com.h.game",
+    "restype": "quick_app",
+    "name": "小游戏合集",
+    "description": "小游戏集合超过30+款游戏等你来体验，一个应用可以满足你大部分的游戏需求。",
+    "preview": [
+      "redmi_watch-2026-05-03-23-43-03.png",
+      "redmi_watch-2026-05-04-00-19-50.png",
+      "xiaomi_band_10-2026-05-04-00-05-16.png",
+      "xiaomi_band_pro-2026-05-04-00-20-03.png"
+    ],
+    "icon": "app_icon.png",
+    "cover": "2026050400054246.png",
+    "author": [
+      {
+        "name": "henrrybyhao",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "shopping-cart",
+      "title": "购买赞助链接",
+      "url": "https://afdian.com/a/velabyh"
+    },
+    {
+      "icon": "link-simple",
+      "title": "激活网站（激活之前购买看完教程后买）",
+      "url": "https://an.001155.top/"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "xmb9p": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "xmb10": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "xmb10nfc": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "xmrw6": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "xmrw5xring": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "xmrw5": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    }
+  },
+  "ext": {}
+}
