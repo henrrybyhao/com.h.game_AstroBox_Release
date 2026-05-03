@@ -1,0 +1,52 @@
+{
+  "item": {
+    "id": "com.h.game",
+    "name": "小游戏合集",
+    "description": "小游戏集合超过30+款游戏等你来体验，一个应用可以满足你大部分的游戏需求。",
+    "preview": [
+      "redmi_watch-2026-05-03-23-43-03.png",
+      "redmi_watch-2026-05-04-00-19-50.png",
+      "xiaomi_band_10-2026-05-04-00-05-16.png",
+      "xiaomi_band_pro-2026-05-04-00-20-03.png"
+    ],
+    "icon": "app_icon.png",
+    "cover": "2026050400054246.png",
+    "source_url": "https://github.com/henrrybyhao/com.h.game_AstroBox_Release",
+    "author": [
+      {
+        "name": "henrrybyhao",
+        "author_url": "https://astrobooox-ng.waijade.cn/publish"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "n67": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "o66": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "o66nfc": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "p65": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "o65m": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    },
+    "o65": {
+      "version": "1.2.4",
+      "file_name": "小游戏集合.bin"
+    }
+  }
+}
